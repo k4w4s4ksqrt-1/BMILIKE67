@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main()
+int acccalc()
 {
     int weight;
     int height;
