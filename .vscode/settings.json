@@ -1,0 +1,6 @@
+{
+"code-runner.executorMap": {
+    "cpp": "cd $dir && C:/msys64/ucrt64/bin/g++.exe $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
+},
+"code-runner.runInTerminal": true
+}
